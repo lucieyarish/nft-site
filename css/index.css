@@ -5,11 +5,6 @@ body {
     color: #2B283A;
 }
 
-h1 {
-    margin-top: 0;
-    
-}
-
 header {
     background: #5F29A3;
     padding: 45px 0px;
@@ -21,8 +16,20 @@ h1 {
     margin: 0;
 }
 
+h2 {
+    margin-top: 0;
+}
+
 h3 {
     font-size: 20px;
     color: #D0AAFF;
     margin: 0;
+}
+
+section {
+    padding: 45px 0px;
+}
+
+.main-img {
+    width: 100%;
 }
