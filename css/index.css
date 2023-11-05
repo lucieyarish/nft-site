@@ -5,10 +5,7 @@ body {
     color: #2B283A;
 }
 
-header {
-    background: #5F29A3;
-    padding: 45px 0px;
-}
+/* TYPOGRAPHY */
 
 h1 {
     font-size: 36px;
@@ -26,10 +23,56 @@ h3 {
     margin: 0;
 }
 
+/* LINKS */
+a {
+    color: #EF5839;
+    text-decoration-style: dotted;
+}
+
+a:hover, a:active {
+    color: #D4B44C;
+}
+
+/* HEADER AND NAVIGATION */
+header {
+    background: #5F29A3;
+    padding: 45px 0px;
+}
+
+/* LAYOUT */
 section {
     padding: 45px 0px;
 }
 
+section:nth-child(even) {
+    background: #5F29A3;
+    color: whitesmoke;
+}
+
+.container {
+    width: 620px;
+    margin: 0 auto;
+}
+
+.feature-img-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* IMAGES */
+
 .main-img {
     width: 100%;
+}
+
+.feature-image {
+    width: 300px;
+    border-radius: 4.6px;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    color: #5F29A3;
+    padding: 45px 0;
 }
