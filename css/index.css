@@ -10,7 +10,6 @@ body {
 h1 {
     font-size: 36px;
     color: whitesmoke;
-    margin: 0;
 }
 
 h2 {
@@ -20,7 +19,14 @@ h2 {
 h3 {
     font-size: 20px;
     color: #D0AAFF;
-    margin: 0;
+}
+
+h1, h3 {
+    margin: 0;    
+}
+
+p {
+    line-height: 23px;
 }
 
 /* LINKS */
@@ -33,19 +39,51 @@ a:hover, a:active {
     color: #D4B44C;
 }
 
-/* HEADER AND NAVIGATION */
-header {
+/* BUTTONS */
+.btn-dark {
     background: #5F29A3;
-    padding: 45px 0px;
+    color: whitesmoke;
+}
+
+.btn-mid {
+    background: #F0E0FF;
+}
+
+.btn-light {
+    background: whitesmoke;
+}
+
+.btn-mid, .btn-light {
+    color: #5F29A3;
+}
+
+.btn {
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover,
+.btn:active {
+    background: #F3E885;
+    color: #2B283A;
+}
+
+/* HEADER AND NAVIGATION */
+header, section:nth-child(even) {
+    background: #5F29A3;
 }
 
 /* LAYOUT */
-section {
-    padding: 45px 0px;
+header, 
+section, 
+footer {
+    padding: 45px 0;
 }
 
 section:nth-child(even) {
-    background: #5F29A3;
     color: whitesmoke;
 }
 
@@ -73,6 +111,5 @@ section:nth-child(even) {
 /* FOOTER */
 footer {
     text-align: center;
-    color: #5F29A3;
-    padding: 45px 0;
+    color: #5F29A3
 }
