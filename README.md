@@ -2,7 +2,9 @@
 
 A simple site making fun of NFTs built while learning essential CSS concepts via Scrimba's Frontend Dev Career Path. HTML & CSS only.
 
-While working on this project via [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend), I learned/practiced some of the very important HTML & CSS concepts:
+View the finished project on [Netlify](https://unit-converter-lucieyarish.netlify.app/)!
+
+While working on this project via [Scrimba's Frontend Developer Career Path](https://nft-site-lucieyarish.netlify.app/), I learned/practiced some of the very important HTML & CSS concepts:
 
 - Semantic HTML and accessibility
 - `hover` and `active` states using pseudo selectors
