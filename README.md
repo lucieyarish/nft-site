@@ -2,7 +2,7 @@
 
 A simple site making fun of NFTs built while learning essential CSS concepts via Scrimba's Frontend Dev Career Path. HTML & CSS only.
 
-View the finished project on [Netlify](https://unit-converter-lucieyarish.netlify.app/)!
+View the finished project on [Netlify](https://nft-site-lucieyarish.netlify.app/)!
 
 <img width="484" alt="nft-site-showcase" src="https://github.com/lucieyarish/nft-site/assets/79669599/012391c9-c4dc-40cf-8d2a-bad715d38020">
 
