@@ -67,11 +67,14 @@ a:hover, a:active {
 }
 
 .btn {
-    padding: 10px 19px;
-    border-radius: 4.6px;
+    font-size: 1.125em;
     font-weight: 500;
     text-decoration: none;
     display: inline-block;
+    padding: 0.5em 1em;
+    border-radius: 4.6px;
+    margin-right: 0.5em;
+    margin-top: 1em;
 }
 
 .btn:hover,
@@ -89,7 +92,7 @@ header, section:nth-child(even) {
 header, 
 section, 
 footer {
-    padding: 45px 0;
+    padding: 2.875em 0;
 }
 
 section:nth-child(even) {
@@ -113,7 +116,7 @@ section:nth-child(even) {
     width: 100%;
     max-width: 640px;
     display: block;
-    margin: 0 auto 32px;
+    margin: 0 auto 2em;
 }
 
 .feature-image {
