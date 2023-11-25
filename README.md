@@ -25,8 +25,8 @@ This site was rebuilt once I learned about responsive design in the course. The 
 
 ## Final Result
 ### Desktop
-<img width="600" alt="Screenshot 2023-11-25 at 10 29 34" src="https://github.com/lucieyarish/nft-site/assets/79669599/f2e456be-0a73-4ac8-8c93-8395c4975371">
-<img width="600" alt="Screenshot 2023-11-25 at 10 30 10" src="https://github.com/lucieyarish/nft-site/assets/79669599/32879ca8-4416-4f37-97cc-d44455e3095f">
+<img width="800" alt="Screenshot 2023-11-25 at 10 29 34" src="https://github.com/lucieyarish/nft-site/assets/79669599/f2e456be-0a73-4ac8-8c93-8395c4975371">
+<img width="800" alt="Screenshot 2023-11-25 at 10 30 10" src="https://github.com/lucieyarish/nft-site/assets/79669599/32879ca8-4416-4f37-97cc-d44455e3095f">
 
 ### Mobile
 
